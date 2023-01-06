@@ -1,2 +1,3 @@
 # Challenge-4-Custom-Action
 This is for Custom Action
+In this challenge, you'll need to start with two new repositories. One for a custom action and another for workflow to test the action In the repo for your custom action, create a Dockerfile and a script that implements some function. It could be as simple as printing Hello World or as complex as you want it to be. The most important thing at this point is to get all of the pieces together for your custom action, specifically a working Dockerfile and script. In the repo for your workflow, use a push event to trigger the workflow, then call the custom action and observe the output.
